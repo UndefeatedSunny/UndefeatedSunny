@@ -66,12 +66,10 @@ Markdown      28 mins         ▓░░░░░░░░░░░░░░░�
 ⏳  Longest Coding streak is **220** days
 <!-- TODO-IST:END -->
 
-
 📈 My GitHub Stats
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UndefeatedSunny&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
-
