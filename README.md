@@ -12,6 +12,12 @@
 <a href="https://www.hackerearth.com/@Sunny_Chaudhary">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" />
 </a>
+<a href="https://auth.geeksforgeeks.org/user/sunnychaudharyvlsi/profile">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" />
+</a>
+<a href="https://www.instagram.com/sunny__chaudhary__/">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
