@@ -24,7 +24,7 @@
 
 <br />
 
-Hi, I'm [Sunny Chaudhary](https://blog.abhisheknaidu.tech/), a passionate self-taught Digital Verification Engineer from India. My passion for that lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Sunny Chaudhary](https://blog.abhisheknaidu.tech/), a passionate self-taught **Digital Verification Engineer** from India. My passion for that lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
