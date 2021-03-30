@@ -6,12 +6,16 @@
 <a href="https://www.codechef.com/users/sunnych_007">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/codechef.svg" />
 </a>
+<a href="https://www.hackerrank.com/Sunny_Chaudhary?hr_r=1">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-Hi, I'm [Sunny Chaudhary](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Sunny Chaudhary](https://blog.abhisheknaidu.tech/), a passionate self-taught Digital Verification Engineer from India. My passion for that lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
