@@ -9,6 +9,9 @@
 <a href="https://www.hackerrank.com/Sunny_Chaudhary?hr_r=1">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
 </a>
+<a href="https://www.hackerearth.com/@Sunny_Chaudhary">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" />
+</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
@@ -23,8 +26,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me **sunnychaudharyvlsi@gmail.com**
 - 📝 [Resume 1](https://drive.google.com/file/d/1QZQolltik14byfZyRu0gh-r83gKNZAVe/view?usp=sharing)
 - 📝 [Resume 2](https://drive.google.com/file/d/1BnSl--3Gh_vDAo_9Wp73LVKvlHV9QbL0/view?usp=sharing)
+- ⚡ Fun fact **I think I am Funny😂**
 
 **Languages and Tools:**  
 
