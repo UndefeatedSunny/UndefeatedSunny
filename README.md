@@ -33,7 +33,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **sunnychaudharyvlsi@gmail.com**
-                      ------------->>>                      **sunnychaudhary.pine.2020@gmail.com**
+                      **sunnychaudhary.pine.2020@gmail.com**
 - 📝 [Resume 1](https://drive.google.com/file/d/1QZQolltik14byfZyRu0gh-r83gKNZAVe/view?usp=sharing)
 - 📝 [Resume 2](https://drive.google.com/file/d/1BnSl--3Gh_vDAo_9Wp73LVKvlHV9QbL0/view?usp=sharing)
 - ⚡ Fun fact **I think I am Funny😂**
