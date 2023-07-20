@@ -57,15 +57,7 @@ Others        28 mins         ▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  799 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 201 tasks so far             
-⏳  Longest Coding streak is **220** days
-<!-- TODO-IST:END -->
 
-📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UndefeatedSunny&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!-- Any image aligned to the right. Beware the width -->
